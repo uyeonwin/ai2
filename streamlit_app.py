@@ -89,8 +89,8 @@ content_data = {
         ],
         'texts': [
             "기니피그는 귀엽습니다. 꿍꿍소리가 나요.",
-            "햄스터는 너무 귀엽고 그매요.",
-            "호랑이도 자세히보면 귀여워요. 애기호랑이!!"
+            "Label 1 관련 두 번째 텍스트 내용입니다.",
+            "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
@@ -105,7 +105,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
+            "햄스터는 너무 귀엽고 쬐그매요.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -122,7 +122,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
+            "호랑이도 자세히보면 귀여워요. 애기호랑이!!",
             "Label 3 관련 두 번째 텍스트 내용입니다.",
             "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
